@@ -1,0 +1,8 @@
+                Library Management System 
+                   Returned By: Bikalpa
+    Date: 2021-10-28    Time:20:51:40.686790
+
+S.N.		Bookname		Cost
+2		Start With Why		$1.5
+3		Programming With Python		$1.5
+					Total: $3.0
